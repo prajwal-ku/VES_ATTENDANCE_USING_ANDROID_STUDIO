@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Attendance_project</string>
+    <string name="login">Login</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="register">Register</string>
+    <string name="click_to_login">Click to login</string>
+    <string name="click_to_register">Click to Register</string>
+    <string name="logout">Logout</string>
+    <string name="submit">Submit</string>
+    <string name="registration_id">Registration ID</string>
+    <string name="select">Select Year</string>
+    <string name="BR">Select Branch</string>
+    <string name="Gender">Select Gender</string>
+    <string name="branch_class">Branch_Class</string>
+    <string name="roll_no">Roll_no</string>
+
+</resources>

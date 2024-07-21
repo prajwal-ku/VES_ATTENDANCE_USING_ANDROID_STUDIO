@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "859104948957",
+    "project_id": "vesit-attendance-project",
+    "storage_bucket": "vesit-attendance-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:859104948957:android:42db4ed58a821e3e29e134",
+        "android_client_info": {
+          "package_name": "com.code.attendance_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFoc4VyFr52aYPFEtaM85IrJ_BRE-Q_dM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
